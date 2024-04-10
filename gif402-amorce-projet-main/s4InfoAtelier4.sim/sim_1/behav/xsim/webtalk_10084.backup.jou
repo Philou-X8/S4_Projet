@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar  3 18:16:01 2024
+# Process ID: 10084
+# Current directory: F:/Xilinx/Projects/gif402-amorce-projet-main/s4InfoAtelier4.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Xilinx/Projects/gif402-amorce-projet-main/s4InfoAtelier4.sim/sim_1/behav/xsim/xsim.dir/atelier4_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Xilinx/Projects/gif402-amorce-projet-main/s4InfoAtelier4.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Xilinx/Projects/gif402-amorce-projet-main/s4InfoAtelier4.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Xilinx/Projects/gif402-amorce-projet-main/s4InfoAtelier4.sim/sim_1/behav/xsim/xsim.dir/atelier4_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace

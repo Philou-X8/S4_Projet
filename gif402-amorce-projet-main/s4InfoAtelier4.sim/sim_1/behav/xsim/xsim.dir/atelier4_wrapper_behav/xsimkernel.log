@@ -1,0 +1,7 @@
+Running: xsim.dir/atelier4_wrapper_behav/xsimk.exe -simmode gui -wdb atelier4_wrapper_behav.wdb -simrunnum 0 -socket 50913
+Design successfully loaded
+Design Loading Memory Usage: 47476 KB (Peak: 47476 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 5312040 KB (Peak: 5312040 KB)
+Simulation CPU Usage: 1327 ms

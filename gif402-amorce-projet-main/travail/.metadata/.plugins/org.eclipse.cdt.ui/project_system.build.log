@@ -1,0 +1,10 @@
+18:30:47 **** Incremental Build of configuration Debug for project project_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 62876 F:/Xilinx/Projects/gif402-amorce-projet-main/travail/atelier4_wrapper/export/atelier4_wrapper/atelier4_wrapper.xpfm standalone_ps7_cortexa9_0 F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project_system/Debug/system.bif
+sdcard_gen --xpfm F:/Xilinx/Projects/gif402-amorce-projet-main/travail/atelier4_wrapper/export/atelier4_wrapper/atelier4_wrapper.xpfm --sys_config atelier4_wrapper --bif F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project_system/Debug/system.bif --bitstream F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project/_ide/bitstream/atelier4_wrapper.bit --elf F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project/Debug/project.elf,ps7_cortexa9_0
+creating BOOT.BIN using F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project/_ide/bitstream/atelier4_wrapper.bit
+Running F:/Xilinx/Install/Vitis/2020.2/bin/bootgen  -image F:/Xilinx/Projects/gif402-amorce-projet-main/travail/project_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+18:30:50 Build Finished (took 3s.16ms)
+
